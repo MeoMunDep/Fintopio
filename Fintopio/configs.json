@@ -4,5 +4,6 @@
   "country_time": "en-US",
   "isBugging": false,
   "delayEachAccount": [5, 8],
-  "skipInvalidProxy": false
+  "skipInvalidProxy": false,
+  "howManyGames": 100
 }
