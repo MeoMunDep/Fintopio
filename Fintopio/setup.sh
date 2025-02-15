@@ -112,7 +112,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd fintopio && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
